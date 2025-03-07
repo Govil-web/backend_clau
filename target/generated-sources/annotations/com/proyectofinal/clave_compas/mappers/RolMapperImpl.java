@@ -8,7 +8,7 @@ import javax.annotation.processing.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2025-03-07T03:59:11-0500",
+    date = "2025-03-07T04:20:21-0500",
     comments = "version: 1.6.0, compiler: javac, environment: Java 21.0.6 (Amazon.com Inc.)"
 )
 public class RolMapperImpl implements RolMapper {
